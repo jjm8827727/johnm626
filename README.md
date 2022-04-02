@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnm626
+- 👋 Hi, I’m John
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
